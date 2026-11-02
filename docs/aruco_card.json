@@ -1,0 +1,10 @@
+{
+  "dictionary": "DICT_4X4_50",
+  "cards": {
+    "chain": 0,
+    "oil": 1
+  },
+  "nominal_marker_mm": 50.0,
+  "measured_marker_mm": null,
+  "note": "After printing, measure the black square side with a ruler and set measured_marker_mm."
+}

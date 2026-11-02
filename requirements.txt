@@ -1,0 +1,17 @@
+# Python 3.11. Also needs the ffmpeg binary on PATH (Windows: winget install Gyan.FFmpeg).
+openai==3.42.1
+python-dotenv==1.2.4
+requests==2.34.2
+meta-sam-parser==0.1.0
+numpy==2.4.6
+scipy==1.17.1
+librosa==0.11.0
+opencv-python==5.0.0.93
+pypdf==6.21.4
+matplotlib==3.11.2
+pydantic==2.14.2
+PyYAML==6.0.3
+fastapi==0.162.0
+uvicorn[standard]==0.54.0
+Jinja2==3.1.6
+python-multipart==0.0.33
